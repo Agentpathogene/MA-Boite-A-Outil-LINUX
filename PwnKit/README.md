@@ -1,5 +1,7 @@
 # CVE-2021-4034 (PwnKit) — Exploit
 
+<img width="879" height="568" alt="Capture d’écran du 2026-10-30 15-18-14" src="https://github.com/user-attachments/assets/d90de057-602f-4ffc-b535-5721a0e17d44" />
+
 ## Description
 
 Ce dépôt contient un exploit fonctionnel pour la vulnérabilité **CVE-2021-4034**, 
