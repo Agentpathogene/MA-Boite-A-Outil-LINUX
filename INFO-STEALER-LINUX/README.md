@@ -1,6 +1,6 @@
 
 
-   CE PROJET EST DESTINE A UN USAGE ETHIQUE ET LEGAL
+   ### ⚠️ CE PROJET EST DESTINE A UN USAGE ETHIQUE ET LEGAL ⚠️
 
 
    ## pour assembler le code 
