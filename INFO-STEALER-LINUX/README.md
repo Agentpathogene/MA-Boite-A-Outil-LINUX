@@ -39,6 +39,8 @@ Pour nos amis forensic executer le sur une vm et essayer de retracer son activit
 
 <img width="1267" height="976" alt="Capture d’écran du 2026-11-02 14-15-03" src="https://github.com/user-attachments/assets/ff6d5bbb-aabb-4b0f-a3df-5b8fc9e8a324" />
 
+Pour l'intant pas detecte sur virus total , mais il n'as pas ete teste sur une machine linux avec edr actf...
+<img width="1889" height="830" alt="Capture d’écran du 2026-11-06 12-14-29" src="https://github.com/user-attachments/assets/8413a445-04b6-4b18-a131-91f4cd24565a" />
 
 
 pour plus de question je reste joignable sur mon linkdin...
