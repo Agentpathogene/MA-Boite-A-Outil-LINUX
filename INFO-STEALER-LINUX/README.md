@@ -35,7 +35,7 @@ Ensuite il affiche un popup de phishing et demande le mot de pass root , qui est
 
 Ce malware est une poc pas une cyber arme , il est a but eductif !
 Pour nos amis forensic executer le sur une vm et essayer de retracer son activite !
-Pour nos amis Reverse enginner , envoyer moi un coucou sur mon server ;)
+
 
 <img width="1267" height="976" alt="Capture d’écran du 2026-11-02 14-15-03" src="https://github.com/user-attachments/assets/ff6d5bbb-aabb-4b0f-a3df-5b8fc9e8a324" />
 
